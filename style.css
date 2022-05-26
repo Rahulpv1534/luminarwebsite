@@ -1,0 +1,52 @@
+pre{
+   background-color: purple;
+   color: whitesmoke;
+   height: 40px;
+}
+nav{
+    background-color: white;
+    color: purple;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.d{
+    height: 500px;
+    width: 100%;
+}
+h1{
+color: blueviolet;
+}
+P{
+    color: blueviolet;
+    font-size: larger;
+}
+.z{
+    padding-left: 8%;
+    font-size: medium;
+    
+}
+.fs-1{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.i{
+    height: 66%;
+}
+button:hover{
+background-color: purple;
+color: wheat;
+}
+button{
+    background-color: blueviolet;
+}
+.ms-5{
+    border-radius: 80px;
+}
+.pp{
+    border-style: none;
+}
+.modal-body container{
+    width: 50%;
+}
